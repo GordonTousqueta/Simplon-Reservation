@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\bin\Debug\net6.0\ReservationService.Datas.Model.deps.json
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\bin\Debug\net6.0\ReservationService.Datas.Model.dll
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\bin\Debug\net6.0\ReservationService.Datas.Model.pdb
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\bin\Debug\net6.0\ReservationService.Datas.Entities.dll
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\bin\Debug\net6.0\ReservationService.Datas.Entities.pdb
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.csproj.CopyComplete
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.dll
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\refint\ReservationService.Datas.Model.dll
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ReservationService.Datas.Model.pdb
+C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Datas.Model\obj\Debug\net6.0\ref\ReservationService.Datas.Model.dll
