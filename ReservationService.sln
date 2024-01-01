@@ -34,6 +34,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "�
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BDCE5057-BF6F-4DD2-86C5-482619BE0154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestResa", "TestResa\TestResa.csproj", "{D8D1EFFD-48CC-4D90-B511-22A1B7A922F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +64,10 @@ Global
 		{D2D52010-65C5-4226-9967-6FE5D7BFCEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2D52010-65C5-4226-9967-6FE5D7BFCEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2D52010-65C5-4226-9967-6FE5D7BFCEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D1EFFD-48CC-4D90-B511-22A1B7A922F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D1EFFD-48CC-4D90-B511-22A1B7A922F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D1EFFD-48CC-4D90-B511-22A1B7A922F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D1EFFD-48CC-4D90-B511-22A1B7A922F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +78,7 @@ Global
 		{82D593EE-1474-4BC9-8FEA-D41FF8783F6D} = {F0B256CD-B322-406D-982F-9D85A7AF6290}
 		{C3EF8D9F-86CF-4207-A751-D8F0407CF1B3} = {F0B256CD-B322-406D-982F-9D85A7AF6290}
 		{D2D52010-65C5-4226-9967-6FE5D7BFCEFB} = {FA9A3B3C-1993-429E-A608-012F81D144E9}
+		{D8D1EFFD-48CC-4D90-B511-22A1B7A922F4} = {BDCE5057-BF6F-4DD2-86C5-482619BE0154}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28F02EF4-79E8-46B5-86CB-9372600D4528}

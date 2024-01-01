@@ -12,3 +12,17 @@ C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Entities
 C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.pdb
 C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.genruntimeconfig.cache
 C:\Users\Utilisateur\source\repos\ReservationService\ReservationService.Entities\obj\Debug\net6.0\ref\ReservationService.Datas.Entities.dll
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\bin\Debug\net6.0\ReservationService.Datas.Entities.deps.json
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\bin\Debug\net6.0\ReservationService.Datas.Entities.runtimeconfig.json
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\bin\Debug\net6.0\ReservationService.Datas.Entities.dll
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\bin\Debug\net6.0\ReservationService.Datas.Entities.pdb
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.dll
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\refint\ReservationService.Datas.Entities.dll
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.pdb
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ReservationService.Datas.Entities.genruntimeconfig.cache
+C:\Users\user\Source\Repos\Simplon-Reservation\ReservationService.Entities\obj\Debug\net6.0\ref\ReservationService.Datas.Entities.dll
