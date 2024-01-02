@@ -214,6 +214,19 @@ csx/
 ecf/
 rcf/
 
+
+#autre
+ .vs/ReservationService/DesignTimeBuild/.dtbcache.v2
+.vs/ReservationService/v17/.suo
+
+ReservationService/bin/Debug/net6.0/ReservationService.dll
+
+ReservationService/bin/Debug/net6.0/ReservationService.pdb
+
+ReservationService/obj/Debug/net6.0/ReservationService.dll
+
+ReservationService/obj/Debug/net6.0/ReservationService.pdb
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
