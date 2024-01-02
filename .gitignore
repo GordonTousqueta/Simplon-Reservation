@@ -220,8 +220,8 @@ rcf/
 .futdcache.v2
 .suo
 .cache
-
- .vs/ReservationService/DesignTimeBuild/.dtbcache.v2
+.ReservationService.csProj.assemblyReference.cache
+.vs/ReservationService/DesignTimeBuild/.dtbcache.v2
 .vs/ReservationService/v17/.suo
 
 ReservationService/bin/Debug/net6.0/ReservationService.dll
