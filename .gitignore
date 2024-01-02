@@ -216,6 +216,11 @@ rcf/
 
 
 #autre
+.dtbCache.v2
+.futdcache.v2
+.suo
+.cache
+
  .vs/ReservationService/DesignTimeBuild/.dtbcache.v2
 .vs/ReservationService/v17/.suo
 
